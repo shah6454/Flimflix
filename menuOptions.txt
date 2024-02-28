@@ -1,0 +1,8 @@
+The films Menu options.
+Enter:
+1. Print all films.
+2. Add a films.
+3. Update a film.
+4. Delete a film.
+5. Report.
+6. Exit the film App.
